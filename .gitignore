@@ -1,2 +1,2 @@
 proto/account/deposit.pb.go
-proto/account/deposit.proto
+proto/account/deposit_grpc.pb.go
